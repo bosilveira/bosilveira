@@ -19,9 +19,9 @@ Skills
 
 ⚡ My website and social media pages showcase my ideas and solutions for improving processes, organizing projects, and implementing innovative change. I am skilled in international communication and have experience in both developing dynamic web solutions and working on cross-platform applications.
 
-    [https://www.vanderhaegen.com.br/bosilveira/](https://www.vanderhaegen.com.br/bosilveira/)
-    [https://www.linkedin.com/in/bosilveira/](https://www.linkedin.com/in/bosilveira/)
-    [https://twitter.com/van_der_Haegen/](https://twitter.com/van_der_Haegen/)
+`[https://www.vanderhaegen.com.br/bosilveira/](https://www.vanderhaegen.com.br/bosilveira/)`
+`[https://www.linkedin.com/in/bosilveira/](https://www.linkedin.com/in/bosilveira/)`
+`[https://twitter.com/van_der_Haegen/](https://twitter.com/van_der_Haegen/)`
     
 Let's connect and collaborate on the next big thing!
 
